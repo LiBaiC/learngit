@@ -1,2 +1,2 @@
-git is verson control system.
+git is distributed verson control system.
 Git is free software.
